@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>1001 Ways the World is Going to Die</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Courier New, Helvetica, sans-serif;
+}
+h2 {text-align: center;}
+h3 {text-align: center;}
+p {text-align: center;}
+h3 {
+  font-size: 10px;
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+</style>
+</head>
+<body>
+<h2>1001 Ways the World is Going to Die</h2>
+<p float: center>
+<a href="https://open.spotify.com/show/4JjXqQFt6xTEwpgH8UKGuW">Spotify</a>
+</p>
+<p>
+<a href="ttps://anchor.fm/1001wwgd">Anchor</a> 
+</p>
+<p>
+<a href="https://www.breaker.audio/1001-ways-the-world-is-going-to-die">Breaker</a>
+</p>
+<p>
+<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zZGVjNTVhOC
+9wb2RjYXN0L3Jzcw==">Google Podcasts</a>
+</p>
+<p>
+<a href="https://pca.st/3xblx5as">Pocket Casts</a>
+</p>
+<p>
+<a href="https://radiopublic.com/1001-ways-the-world-is-going-to-d-G3ZmA5">Radio Public</a>
+</p>
+
+<h3 >Yes, those are links</h3>
+<h3 >A podcast created by Earthlink NTU.</h3>
+
+</body>
+</html>
